@@ -15,7 +15,7 @@
   "editor.glyphMargin": false,
   "workbench.colorCustomizations": {
       "statusBar.border": "#206486",
-      "panel.border": "#59ace2",
+      "panel.border": "#59ace2"
   },
   "editor.tokenColorCustomizations": {
       "variables": "#F4F4E0",
@@ -38,5 +38,5 @@
           }
         }
       ]
-  },
+  }
 }
